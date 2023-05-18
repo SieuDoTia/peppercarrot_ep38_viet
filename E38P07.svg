@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   width="2481"
+   height="3503"
+   sodipodi:docname="E38P07.svg"
+   inkscape:export-filename="E38P07.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4546"
+       id="linearGradient4294-2"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4546">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4548" />
+      <stop
+         style="stop-color:#fffad3;stop-opacity:1"
+         offset="1"
+         id="stop4550" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-5-8-8-5-6"
+       inkscape:label="soundFX-Creature"
+       x="-0.023449837"
+       y="-0.086322617"
+       width="1.0695931"
+       height="1.2561833">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-7-3-1-2-52"
+         flood-opacity="1"
+         flood-color="rgb(243,227,152)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-4-1-0-6-6"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1"
+         baseFrequency="0.053999999999999999 0.053999999999999999" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-3-0-1-9-5"
+         operator="dilate"
+         radius="6.2000000000000002"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-8-7-5-4-8"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4544-9-4-7" />
+      <feTurbulence
+         id="feTurbulence4546-3-6-0"
+         type="fractalNoise"
+         numOctaves="5"
+         seed="174"
+         baseFrequency="0.053999999999999999 0.054054054054054057"
+         result="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap4548-8-0-3"
+         in2="turbulence"
+         in="fbSourceGraphic"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4670-7-7-9" />
+      <feFlood
+         id="feFlood4672-4-4-60"
+         flood-opacity="1"
+         flood-color="rgb(175,144,94)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4674-8-3-4"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4676-3-7-1"
+         in="composite1"
+         stdDeviation="0"
+         result="blur" />
+      <feOffset
+         id="feOffset4678-6-9-0"
+         dx="6"
+         dy="6"
+         result="offset" />
+      <feComposite
+         id="feComposite4680-4-0-4"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       y="-0.15335498"
+       height="1.30671"
+       inkscape:label="scream"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Create a turbulent contour around"
+       style="color-interpolation-filters:sRGB;"
+       id="filter983"
+       x="-0.034737457"
+       width="1.0694749">
+      <feMorphology
+         radius="7"
+         operator="dilate"
+         result="result8"
+         in="SourceGraphic"
+         id="feMorphology973" />
+      <feComposite
+         in2="result8"
+         result="result10"
+         in="SourceGraphic"
+         operator="arithmetic"
+         k1="0.5"
+         k3="0.5"
+         id="feComposite975" />
+      <feTurbulence
+         result="result11"
+         type="fractalNoise"
+         numOctaves="3"
+         baseFrequency="0.07"
+         id="feTurbulence977" />
+      <feDisplacementMap
+         result="result12"
+         in2="result11"
+         in="result10"
+         xChannelSelector="R"
+         scale="10"
+         id="feDisplacementMap979" />
+      <feComposite
+         operator="arithmetic"
+         result="result13"
+         in="SourceGraphic"
+         in2="result12"
+         k1="0.25"
+         k2="0.25"
+         k3="0.75"
+         id="feComposite981" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1437"
+     inkscape:window-height="591"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.49882326"
+     inkscape:cx="1897.4657"
+     inkscape:cy="3252.6551"
+     inkscape:window-x="32"
+     inkscape:window-y="61"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E38P07.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="3503"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.137608,-189.13041 c 442.911262,-41.30437 378.026172,-32.60872 527.543992,-34.78264 149.5178,-2.17391 296.21453,52.17394 457.0167,50.00004 160.8022,-2.1739 335.7099,-67.39134 496.5121,-69.56525 160.8022,-2.17392 344.1731,80.43475 547.2916,71.73915 203.1186,-8.6957 440.0902,-73.91307 662.9564,-78.26089 222.8661,-4.34783 338.5309,8.69566 338.5309,8.69566"
+       id="path1405"
+       sodipodi:nodetypes="csssssc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1537.8717,-42.982885 c 113.1209,1.078738 146.3785,-7.510067 198.5936,-11.619542 208.8604,-16.437889 322.3714,-16.43791 433.6123,-8.21896 111.2409,8.21896 429.1706,-47.526983 517.7091,-80.402793"
+       id="path1020"
+       sodipodi:nodetypes="cssc" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:0.694869"
+       d="m 1700.5024,1969.4409 c -16.3073,0.5245 -32.6307,0.3952 -48.9469,0.5592 -12.2945,0.1943 -24.6477,0.5622 -36.7799,2.1866 -13.8315,2.1618 -27.1486,7.3798 -36.3931,15.6258 -6.1044,5.3983 -9.8739,12.2691 -10.6034,19.3719 -0.8672,7.4247 1.6106,15.0021 6.8095,21.3087 6.638,8.2999 17.4212,14.4309 29.4207,17.5808 17.3056,5.2568 36.1717,6.1943 54.6061,6.4604 24.6828,0.1087 49.2836,-2.1552 73.9719,-1.7265 14.2342,-0.1704 28.9116,-2.029 41.2084,-7.7868 11.8092,-5.4002 21.5062,-14.1189 24.5375,-24.503 2.5775,-9.6688 -1.1558,-19.8107 -8.0735,-27.9785 -6.8836,-7.7923 -17.9645,-13.1283 -29.8888,-15.2663 -17.65,-3.928 -36.08,-5.4108 -54.4099,-5.8039 -1.8196,-0.025 -3.6389,-0.035 -5.4586,-0.028 z"
+       id="path3280-81-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1"
+       d="m 1752.3951,2212.7401 c -29.1996,-28.3355 -25.3776,-48.9 -18.4598,-65.8757 6.9152,-16.9743 5.4331,-34.8074 1.6513,-45.16 -3.7818,-10.3527 -15.458,-24.2791 -24.0065,-30.0394 -8.5495,-5.76 -2.463,-24.988 0.8184,-37.0866 4.3344,-15.985 14.1991,-18.8659 14.1991,-18.8659 0,0 -19.9194,-61.2958 -25.246,-45.8521 -5.3255,15.4433 -13.7202,67.8625 -14.37,74.4864 -0.6488,6.6235 -0.2538,26.7575 6.8528,35.3801 7.1075,8.6222 19.9088,11.1437 26.3236,22.4562 6.6084,11.6536 7.0082,21.5786 4.1393,35.3916 -2.8689,13.813 -5.234,45.0397 7.6892,57.4247 12.9241,12.3845 20.4086,17.7407 20.4086,17.7407 z"
+       id="path3023-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssscssssssc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 114.94018,-52.779968 c 490.25946,-69.039202 581.45326,-76.614922 779.68861,-56.889442 49.55884,4.93137 137.08611,10.684638 243.56441,16.283798 106.4782,5.599161 231.9074,16.715294 357.2699,21.030244 125.3626,4.31495 157.5093,3.719076 263.7211,4.797814"
+       id="path20863" />
+    <path
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.14264px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 821.20675,2914.6587 c 40.72234,21.1367 20.50516,35.2676 -25.02962,28.0824 65.23674,26.7358 54.58912,36.4971 -3.35763,37.051 38.89945,11.8549 64.98237,25.0901 -7.35964,43.17 51.75068,3.1963 71.40373,15.0647 8.41101,38.6258 34.00893,-1.2698 102.30831,-12.0241 58.84428,25.9723 75.10175,-18.9017 105.99554,-16.7723 67.11814,30.411 37.7489,-13.8955 99.80951,-49.1109 77.80212,-10.6033 17.29519,-12.298 39.30629,-16.9524 78.85379,6.8164 -7.712,-17.1418 -30.9469,-44.3092 38.9011,-11.3604 -21.1153,-25.7812 -25.3196,-39.7495 45.2092,-1.5147 -10.5064,-19.4392 -64.0418,-35.6073 22.2485,-55.0466 -51.8396,-6.1239 -24.5357,-22.8974 5.0876,-34.3228 -55.2355,-10.482 -32.7199,-19.8196 6.3082,-30.2948 -39.604,-6.449 -66.7234,-17.0727 -8.4111,-46.9566 -87.6586,24.354 -57.6146,-7.4552 -50.4662,-28.0226 -32.3941,17.6427 -65.0453,48.8846 -77.8023,-6.059 -55.1738,43.7217 -73.0402,13.2926 -91.47032,-0.7573 -29.75824,52.7061 -69.22432,12.5699 -94.1194,-1.6446 22.52318,29.8283 9.24403,35.3686 -50.76773,16.4538 z"
+       id="path1096"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.926556px;marker:none;enable-background:accumulate"
+       d="m 990.01765,3022.6664 c -27.77377,2.7838 -55.25469,13.9355 -75.87035,33.9229 -19.36668,19.1576 -32.06408,46.2979 -32.24888,74.4074 0.13257,18.5035 1.16745,37.39 7.19774,54.9517 10.53445,24.3762 32.79892,42.6545 57.86181,47.8249 25.74583,6.562 52.36397,8.3218 78.78503,8.4372 27.2594,-0.024 54.5008,-1.8513 81.609,-4.767 16.9012,-2.307 34.2761,-6.164 48.5285,-16.4666 16.6559,-12.3726 26.7619,-33.0058 28.5645,-54.0971 2.6115,-21.9387 0.7707,-44.3378 -4.3487,-65.7398 -3.6776,-14.6231 -9.9115,-29.0098 -20.4957,-39.5966 -13.0611,-13.7214 -30.4703,-21.6703 -47.9365,-27.2176 -23.4562,-7.1623 -47.9208,-9.4213 -72.1694,-11.5613 -16.4696,-1.1126 -33.0019,-1.0571 -49.47705,-0.098 z"
+       id="path3525"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999996px;marker:none;enable-background:accumulate"
+       d="m 742.63655,2826.7563 c -8.53732,-43.3324 14.22887,-158.4342 189.24468,-148.9553 175.01567,9.479 203.47367,63.6445 207.74227,79.8942 4.2687,16.2496 41.2639,108.3311 -95.3337,132.7057 -136.59777,24.3744 -258.9664,-1.3542 -301.65325,-63.6446 z"
+       id="path3525-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999996px;marker:none;enable-background:accumulate"
+       d="m 2189.1602,2684.0863 c -23.5842,0.016 -47.494,1.6608 -70.1682,10.1443 -6.0316,2.322 -12.0731,4.8978 -17.5808,8.7177 -8.5709,6.6357 -13.8033,18.6446 -14.2931,30.866 -0.8169,11.2634 0.3714,22.9199 4.2175,33.2743 3.6963,9.027 10.3956,15.9863 18.142,19.5043 11.1811,5.7282 23.3271,7.6345 35.2391,9.7825 26.0435,4.0615 52.4072,2.9114 78.5014,0.2186 18.1241,-1.8054 36.2408,-4.3546 54.0477,-8.9098 8.6004,-2.2961 17.6366,-5.6921 23.7553,-13.8257 6.3849,-8.7386 8.464,-20.7178 8.9904,-32.0679 0.374,-8.3973 0.1494,-17.3087 -3.4375,-24.7698 -2.9497,-6.738 -8.5914,-10.7665 -14.1066,-13.8792 -6.4765,-3.462 -13.2855,-5.8843 -19.9883,-8.5976 -21.5622,-7.9741 -44.2185,-10.7968 -66.6992,-10.4524 -5.5398,-0.013 -11.0798,-0.01 -16.6197,-0.01 z"
+       id="path4546-6-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssscsc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 2144.6292,2863.8279 c 38.981,-27.949 41.8709,-87.4857 24.9722,-108.5692 -4.3141,-34.7008 25.4997,-3.9606 25.4997,-3.9606 0,0 8.2154,3.3721 8.9152,11.4037 2.0851,23.9328 1.5994,80.4533 -59.3871,101.1261 z"
+       id="path3072-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999999px;marker:none;enable-background:accumulate"
+       d="m 652.82725,2832.4766 c 35.33649,-33.7584 111.05065,-36.7285 137.96153,-22.3639 44.16284,3.4287 4.89767,-21.9668 4.89767,-21.9668 0,0 -4.33452,-7.0393 -14.55445,-7.576 -30.45374,-1.5989 -102.34461,-0.7214 -128.30475,51.9067 z"
+       id="path3072-7-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03194px;marker:none;enable-background:accumulate"
+       d="m 749.2899,3113.326 c 25.78662,16.3962 30.05356,16.2995 41.86536,6.8343 11.8117,-9.4652 25.43765,-26.5184 53.61592,-24.5624 28.17828,1.956 39.04099,14.2093 46.77067,21.8169 6.32888,-17.5954 39.42153,-50.3075 32.82575,-62.6575 -6.59576,-12.3501 50.67021,32.1315 50.67021,32.1315 0,0 -35.79715,39.5866 -57.04995,53.0391 -21.2527,13.4525 -54.41836,-16.4552 -73.6092,-20.5014 -19.19074,-4.0462 -39.45442,18.5815 -55.28535,18.2325 -15.83102,-0.3489 -29.49708,-14.1896 -39.80341,-24.333 z"
+       id="path4538"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscscsssc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.104px;line-height:0.01%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:18.632px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:16.3943;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke markers fill;filter:url(#filter983);enable-background:accumulate"
+       id="text1702"
+       transform="matrix(0.71492825,0,0,1.1709411,8.1453058,396.61083)"><textPath
+         xlink:href="#path20863"
+         id="textPath1053"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;stroke-width:16.3943">CHi<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:114.132px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;stroke:#000000;stroke-width:16.3943;stroke-dasharray:none;paint-order:stroke markers fill"
+   id="tspan19293">iii</tspan><tspan
+   id="tspan19301"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.322px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;stroke:#000000;stroke-width:16.3943;stroke-dasharray:none;paint-order:stroke markers fill">iii</tspan>iii<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:108.727px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;stroke:#000000;stroke-width:16.3943;stroke-dasharray:none;paint-order:stroke markers fill"
+   id="tspan19305">iii</tspan><tspan
+   id="tspan19309"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.1066px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;stroke:#000000;stroke-width:16.3943;stroke-dasharray:none;paint-order:stroke markers fill">ii<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:77.1066px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;stroke-width:16.3943;stroke-dasharray:none"
+   id="tspan1168">i</tspan><tspan
+   id="tspan1172"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.1066px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;stroke-width:16.3943;stroke-dasharray:none">ii</tspan></tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.104px;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:18.632px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:15.2545;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke markers fill;filter:url(#filter983);enable-background:accumulate"
+       id="text1702-5"
+       transform="matrix(0.83262047,0,-0.06932396,1.1613002,179.06909,370.94397)"><textPath
+         xlink:href="#path1020"
+         id="textPath1059"
+         style="stroke-width:15.2545"><tspan
+           id="tspan19309-2"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.1066px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic';stroke:#000000;stroke-width:15.2545;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+   id="tspan21251-7"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.1066px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic';stroke-width:15.2545;stroke-dasharray:none;paint-order:stroke markers fill">iii</tspan><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:77.1066px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic';stroke-width:15.2545;stroke-dasharray:none;paint-order:stroke markers fill"
+   id="tspan21243-0">i</tspan>iii<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.1066px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic';stroke-width:15.2545;stroke-dasharray:none;paint-order:stroke markers fill"
+   id="tspan21235-9">i<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:117.107px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic';stroke-width:15.2545;stroke-dasharray:none;paint-order:stroke markers fill"
+   id="tspan21239-3">ii<tspan
+   style="font-size:132.45px;stroke-width:15.2545"
+   id="tspan964">ii</tspan>i</tspan>i</tspan>iiii</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:155.442px;line-height:0.01%;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:22.786px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:16.7674;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke markers fill;filter:url(#filter983);enable-background:accumulate"
+       id="text1702-5-5"
+       transform="matrix(0.7650768,0.01927012,-0.33341018,1.0376403,-25.270495,1175.6044)"><textPath
+         xlink:href="#path1405"
+         id="textPath1458"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke-width:16.7674;stroke-dasharray:none"><tspan
+           id="tspan19309-2-2"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.527px;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke:#000000;stroke-width:16.7674;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+   id="tspan21251-7-9"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:82.0679px;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke-width:16.7674;stroke-dasharray:none;paint-order:stroke markers fill">iii</tspan><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:94.2974px;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke-width:16.7674;stroke-dasharray:none;paint-order:stroke markers fill"
+   id="tspan21243-0-1">i</tspan>iii<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.756px;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke-width:16.7674;stroke-dasharray:none;paint-order:stroke markers fill"
+   id="tspan21235-9-2">i<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:143.216px;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke-width:16.7674;stroke-dasharray:none;paint-order:stroke markers fill"
+   id="tspan21239-3-7">iiiiiii</tspan>i</tspan>iiiii<tspan
+   id="tspan1334"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:130.986px;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke-width:16.7674;stroke-dasharray:none">ii</tspan><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:155.445px;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke-width:16.7674;stroke-dasharray:none"
+   id="tspan1318">iiiiii</tspan><tspan
+   id="tspan1336"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:130.986px;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke-width:16.7674;stroke-dasharray:none">ii</tspan>iiiii<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:82.0679px;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke-width:16.7674;stroke-dasharray:none"
+   id="tspan1340">iiii</tspan></tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.09923px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.013901px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d7e3f4;fill-opacity:1;fill-rule:nonzero;stroke:#1e90ff;stroke-width:8.99996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke markers fill;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="1669.2567"
+       y="1015.4174"
+       id="text4251-9-3-1-9-5-4-7"
+       transform="matrix(0.76116187,-0.1181876,-0.08454105,1.3269079,0,0)"
+       inkscape:transform-center-x="-111.86567"
+       inkscape:transform-center-y="-94.18204"><tspan
+         sodipodi:role="line"
+         id="tspan4253-3-7-8-7-0-7-4"
+         x="1669.2567"
+         y="1015.4174"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.3838px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:8.99996;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+           style="font-size:45.7442px;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:8.99996;stroke-dasharray:none;paint-order:stroke markers fill"
+           id="tspan4349-9-9-7-3-3-6-4">NỨ<tspan
+   style="font-size:37.0603px;stroke-width:8.99996"
+   id="tspan1087">Ứ</tspan>T<tspan
+   style="font-size:28px"
+   id="tspan5524">T</tspan></tspan><tspan
+           id="tspan4365-0-3-9-6-6-5-3"
+           style="font-size:23.1654px;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:8.99996;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4311-9-7-2-1-1-6-0"
+           style="font-size:28.3838px;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:8.99996;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4369-2-8-0-2-0-9-7"
+           style="font-size:36.8564px;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:8.99996;stroke-dasharray:none;paint-order:stroke markers fill">!</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.09923px;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;letter-spacing:0.013901px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d7e3f4;fill-opacity:1;fill-rule:nonzero;stroke:#1e90ff;stroke-width:8.99996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke markers fill;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="473.21915"
+       y="1593.8789"
+       id="text4251-9-3-1-9-5-4-7-6"
+       transform="matrix(0.55734135,-0.53170135,0.68836615,1.1375341,0,0)"
+       inkscape:transform-center-x="-36.030766"
+       inkscape:transform-center-y="-141.19759"><tspan
+         sodipodi:role="line"
+         id="tspan4253-3-7-8-7-0-7-4-7"
+         x="473.21915"
+         y="1593.8789"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.3838px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:8.99996;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.7442px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:8.99996;stroke-dasharray:none;paint-order:stroke markers fill"
+           id="tspan4349-9-9-7-3-3-6-4-5">NỨ<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.0603px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;stroke-width:8.99996"
+   id="tspan1087-3">Ứ</tspan>T<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.9816px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;stroke-width:8.99996"
+   id="tspan1091-5">T</tspan></tspan><tspan
+           id="tspan4365-0-3-9-6-6-5-3-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.1654px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:8.99996;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4311-9-7-2-1-1-6-0-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.3838px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:8.99996;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4369-2-8-0-2-0-9-7-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.8564px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:8.99996;stroke-dasharray:none;paint-order:stroke markers fill">!</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.09923px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.013901px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d7e3f4;fill-opacity:1;fill-rule:nonzero;stroke:#1e90ff;stroke-width:8.99996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke markers fill;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="1401.0199"
+       y="1299.3007"
+       id="text4251-9-3-1-9-5-4-7-6-1"
+       transform="matrix(0.68062479,-0.36067383,0.35416319,1.2815616,0,0)"
+       inkscape:transform-center-x="-73.866401"
+       inkscape:transform-center-y="-125.59373"><tspan
+         sodipodi:role="line"
+         id="tspan4253-3-7-8-7-0-7-4-7-2"
+         x="1401.0199"
+         y="1299.3007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.3838px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:8.99996;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+           style="font-size:45.7442px;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:8.99996;stroke-dasharray:none;paint-order:stroke markers fill"
+           id="tspan4349-9-9-7-3-3-6-4-5-7">NỨ<tspan
+   style="font-size:37.0603px;stroke-width:8.99996"
+   id="tspan1087-3-0">ứ</tspan>T<tspan
+   style="font-size:30.9816px;stroke-width:8.99996"
+   id="tspan1091-5-9">T</tspan></tspan><tspan
+           id="tspan4365-0-3-9-6-6-5-3-6-3"
+           style="font-size:23.1654px;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:8.99996;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4311-9-7-2-1-1-6-0-2-6"
+           style="font-size:28.3838px;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:8.99996;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4369-2-8-0-2-0-9-7-9-0"
+           style="font-size:36.8564px;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:8.99996;stroke-dasharray:none;paint-order:stroke markers fill">!</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.84858px;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;letter-spacing:0.017888px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d7e3f4;fill-opacity:1;fill-rule:nonzero;stroke:#1e90ff;stroke-width:13;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke markers fill;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="3224.2419"
+       y="706.92328"
+       id="text4251-9-3"
+       transform="matrix(0.81111136,0.08644936,-0.62443961,1.1663227,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4253-3-7"
+         x="3224.2419"
+         y="706.92328"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:104.726px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.8643px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill"
+           id="tspan4349-9-9">Vỡ</tspan><tspan
+           id="tspan4365-0-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.8097px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4311-9-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.5247px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4369-2-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.4274px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">!</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.99304px;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;letter-spacing:0.0182172px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d7e3f4;fill-opacity:1;fill-rule:nonzero;stroke:#1e90ff;stroke-width:13;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke markers fill;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="2947.6458"
+       y="1483.1553"
+       id="text4251-9-3-1"
+       transform="matrix(0.70615116,-0.23002193,0.08328681,1.3889975,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4253-3-7-8"
+         x="2947.6458"
+         y="1483.1553"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.654px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.9478px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill"
+           id="tspan4349-9-9-7">Vỡ</tspan><tspan
+           id="tspan4365-0-3-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.3583px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4311-9-7-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.1969px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4369-2-8-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.3004px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">!</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.08201px;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;letter-spacing:0.01842px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d7e3f4;fill-opacity:1;fill-rule:nonzero;stroke:#1e90ff;stroke-width:13;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke markers fill;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="1941.4905"
+       y="1610.2644"
+       id="text4251-9-3-1-3"
+       transform="matrix(0.66640503,-0.36607994,0.46139572,1.2471279,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4253-3-7-8-74"
+         x="1941.4905"
+         y="1610.2644"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.842px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.6151px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill"
+           id="tspan4349-9-9-7-5">Vỡ</tspan><tspan
+           id="tspan4365-0-3-9-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.6963px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4311-9-7-2-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.611px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4369-2-8-0-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.838px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">!</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.85383px;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;letter-spacing:0.0178999px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d7e3f4;fill-opacity:1;fill-rule:nonzero;stroke:#1e90ff;stroke-width:13;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke markers fill;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="2922.2742"
+       y="921.79712"
+       id="text4251-9-3-1-9"
+       transform="matrix(0.78390292,-0.02757059,-0.37349781,1.2888044,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4253-3-7-8-7"
+         x="2922.2742"
+         y="921.79712"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:104.797px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.9037px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill"
+           id="tspan4349-9-9-7-3">Vỡ</tspan><tspan
+           id="tspan4365-0-3-9-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.8295px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4311-9-7-2-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.5492px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4369-2-8-0-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.4592px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">!</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.7752px;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;letter-spacing:0.0199998px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d7e3f4;fill-opacity:1;fill-rule:nonzero;stroke:#1e90ff;stroke-width:13;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke markers fill;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="2010.15"
+       y="1437.974"
+       id="text4251-9-3-1-9-5"
+       transform="matrix(0.70574997,-0.2585977,0.19389686,1.3458856,0,0)"
+       inkscape:transform-center-x="-125.50887"
+       inkscape:transform-center-y="-165.47732"><tspan
+         sodipodi:role="line"
+         id="tspan4253-3-7-8-7-0"
+         x="2010.15"
+         y="1437.974"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:117.09px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.8141px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill"
+           id="tspan4349-9-9-7-3-3">Vỡ</tspan><tspan
+           id="tspan4365-0-3-9-6-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.329px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4311-9-7-2-1-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.8369px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4369-2-8-0-2-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.0269px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">!</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.85924px;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.0201914px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d7e3f4;fill-opacity:1;fill-rule:nonzero;stroke:#1e90ff;stroke-width:13;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke markers fill;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="2064.3064"
+       y="1277.7948"
+       id="text4251-9-3-1-9-5-4"
+       transform="matrix(0.71247952,-0.25615519,0.19574571,1.3331734,0,0)"
+       inkscape:transform-center-x="-127.91888"
+       inkscape:transform-center-y="-165.48401"><tspan
+         sodipodi:role="line"
+         id="tspan4253-3-7-8-7-0-7"
+         x="2064.3064"
+         y="1277.7948"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.211px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.4443px;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill"
+           id="tspan4349-9-9-7-3-3-6">Vỡ</tspan><tspan
+           id="tspan4365-0-3-9-6-6-5"
+           style="font-size:33.6482px;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4311-9-7-2-1-1-6"
+           style="font-size:41.228px;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">! </tspan><tspan
+           id="tspan4369-2-8-0-2-0-9"
+           style="font-size:53.5346px;fill:#d7e3f4;fill-opacity:1;stroke:#1e90ff;stroke-width:13;stroke-dasharray:none;paint-order:stroke markers fill">!</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.104px;line-height:0.01%;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:18.632px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:14.2382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke markers fill;filter:url(#filter983);enable-background:accumulate"
+       id="text1702-5-8"
+       transform="matrix(0.72969175,0.13265355,-0.39532797,1.4491407,-926.8892,1640.8488)"><textPath
+         xlink:href="#path1020"
+         id="textPath1059-6"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.1066px;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke:#000000;stroke-width:14.2382;stroke-dasharray:none;paint-order:stroke markers fill"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120.107px;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke-width:14.2382;stroke-dasharray:none;paint-order:stroke markers fill"
+           id="tspan21235-9-3">i</tspan><tspan
+           id="tspan6629"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:117.107px;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke-width:14.2382;stroke-dasharray:none;paint-order:stroke markers fill">ii<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.1068px;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke-width:14.2382;stroke-dasharray:none"
+   id="tspan6631">iii</tspan><tspan
+   id="tspan6643"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.1068px;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke-width:14.2382;stroke-dasharray:none">i</tspan></tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.1068px;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke-width:14.2382;stroke-dasharray:none"
+           id="tspan6633">i</tspan><tspan
+           id="tspan6647"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.1068px;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Italic';stroke-width:14.2382;stroke-dasharray:none">i...</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4294-2);fill-opacity:1;stroke:none;stroke-width:0.645144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-6)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580-6-0-0-0-2"
+       transform="matrix(1.1379897,-0.30816684,-0.38734342,1.6685777,919.08311,-505.2977)"><tspan
+         sodipodi:role="line"
+         id="tspan4582-1-1-0-2-4"
+         x="787.65729"
+         y="1584.5073"
+         style="font-size:93.1495px;line-height:1.25;fill:url(#linearGradient4294-2);fill-opacity:1;stroke:none;stroke-width:0.645144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;-inkscape-font-specification:ComicSpice;font-family:ComicSpice;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Dii<tspan
+   style="font-size:70.7783px;fill:url(#linearGradient4294-2);fill-opacity:1;stroke-width:0.645144;-inkscape-font-specification:ComicSpice;font-family:ComicSpice;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4630">ii dô<tspan
+   style="font-size:54.5522px;fill:url(#linearGradient4294-2);stroke-width:0.645144;-inkscape-font-specification:ComicSpice;font-family:ComicSpice;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan5447">ô</tspan><tspan
+   id="tspan5453"
+   style="font-size:41.0427px;fill:url(#linearGradient4294-2);stroke-width:0.645144;-inkscape-font-specification:ComicSpice;font-family:ComicSpice;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">ô</tspan></tspan><tspan
+   style="font-size:55.9281px;fill:url(#linearGradient4294-2);fill-opacity:1;stroke-width:0.645144;-inkscape-font-specification:ComicSpice;font-family:ComicSpice;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4638"><tspan
+   style="font-size:41.0427px;fill:url(#linearGradient4294-2);stroke-width:0.645144;-inkscape-font-specification:ComicSpice;font-family:ComicSpice;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan5451"> </tspan>!!</tspan></tspan></text>
+    <text
+       id="text4178-0-0"
+       y="2024.2074"
+       x="1684.8274"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.372px;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999997"
+       xml:space="preserve"
+       transform="scale(0.99978425,1.0002158)"><tspan
+         y="2024.2074"
+         x="1684.8274"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.1581px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;stroke-width:0.999997"
+         sodipodi:role="line"
+         id="tspan1803">Ủi, ruồi bu!</tspan><tspan
+         y="2040.4089"
+         x="1684.8274"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.1581px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;stroke-width:0.999997"
+         sodipodi:role="line"
+         id="tspan6943" /></text>
+    <text
+       id="text4178-0"
+       y="2748.6367"
+       x="946.86261"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="2748.6367"
+         x="946.86261"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan4567">Bảo vệ tôi.</tspan><tspan
+         y="2799.4827"
+         x="946.86261"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan6114">Em đã nghe tiếng của</tspan><tspan
+         y="2850.3284"
+         x="946.86261"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan6110">con quái vật không?!</tspan></text>
+    <text
+       id="text4178-0-4-4"
+       y="2987.9929"
+       x="989.73712"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="2987.9929"
+         x="989.73712"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Bold'"
+         sodipodi:role="line"
+         id="tspan6102">Tôi sẽ bịt miệng</tspan><tspan
+         y="3038.8389"
+         x="989.73712"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Bold'"
+         sodipodi:role="line"
+         id="tspan6104">quái vật này mãi mã!</tspan></text>
+    <text
+       id="text4178-0-4"
+       y="3102.3931"
+       x="1038.5559"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="3102.3931"
+         x="1038.5559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan2159">Nhưng giám sát</tspan><tspan
+         y="3153.239"
+         x="1038.5559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan4574">tôi cho an toàn,</tspan><tspan
+         y="3204.0847"
+         x="1038.5559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan4576">Thầy Thuốc à...</tspan></text>
+    <text
+       id="text4178-0-4-8"
+       y="2756.2551"
+       x="2200.1013"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="2756.2551"
+         x="2200.1013"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan6957-7">Thầy Thước?</tspan></text>
+  </g>
+</svg>

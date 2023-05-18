@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   width="2481"
+   height="3503"
+   sodipodi:docname="E38P02.svg"
+   inkscape:export-filename="E38P02.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-5-8-8-3-3"
+       inkscape:label="Drop Shadow"
+       x="-0.049103035"
+       y="-0.10004385"
+       width="1.083366"
+       height="1.2567734">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-7-3-1-6-61"
+         flood-opacity="1"
+         flood-color="rgb(87,166,204)"
+         result="flood"
+         radius="5.0999999999999996" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-4-1-0-7-2"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1"
+         baseFrequency="0.053999999999999999 0.053999999999999999" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-3-0-1-5-9"
+         operator="dilate"
+         radius="5.1272503082614058"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-8-7-5-3-3"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic"
+         numOctaves="4" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4544-9-5-1" />
+      <feTurbulence
+         id="feTurbulence4546-3-6-9"
+         type="fractalNoise"
+         numOctaves="4.4123222748815163"
+         seed="172"
+         baseFrequency="0.062 0.054054054054054057"
+         result="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap4548-8-2-4"
+         in2="turbulence"
+         in="fbSourceGraphic"
+         scale="10.781991"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4670-7-9-7"
+         scale="10.800000000000001" />
+      <feFlood
+         id="feFlood4672-4-1-8"
+         flood-opacity="0"
+         flood-color="rgb(45,8,0)"
+         result="flood"
+         in="fbSourceGraphic"
+         dx="-2.3999999999999999" />
+      <feComposite
+         id="feComposite4674-8-2-4"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4676-3-7-50"
+         in="composite1"
+         stdDeviation="0"
+         result="blur" />
+      <feOffset
+         id="feOffset4678-6-0-3"
+         dx="-2.3696682464454994"
+         dy="3.1000000000000001"
+         result="offset" />
+      <feComposite
+         id="feComposite4680-4-9-6"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="430"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="1.3035889"
+     inkscape:cx="1750.5519"
+     inkscape:cy="1747.4834"
+     inkscape:window-x="0"
+     inkscape:window-y="35"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E38P02.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="3503"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <circle
+       style="fill:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"
+       id="path3336"
+       cx="1696.739"
+       cy="1827.1738"
+       r="14.130434" />
+    <circle
+       style="fill:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"
+       id="path3338"
+       cx="1740.4047"
+       cy="1807.0288"
+       r="17.391304" />
+    <circle
+       style="fill:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"
+       id="path3340"
+       cx="1768.4781"
+       cy="1761.9564"
+       r="22.826086" />
+    <path
+       style="fill:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"
+       d="m 1730.4347,1645.6521 c -24.0631,21.7507 -12.5147,49.5339 13.1734,55.2424 2.6419,26.9136 16.5573,25.1924 39.0005,25.1924 28.8858,17.7775 40.9615,5.0335 50,-13.0435 14.9205,15.8799 39.4783,13.5275 43.4783,-2.1739 31.274,12.5029 45.7615,-12.3886 45.6521,-32.6087 18.8202,-8.3493 6.2734,-43.4725 -10.8695,-41.3043 -3.2732,-24.3479 -39.0434,-29.8884 -58.6957,-13.0435 -5.3294,-23.9018 -45.5392,-21.1638 -58.6956,0 -22.1918,-19.3739 -61.1685,-9.6268 -63.0435,21.7391 z"
+       id="path3342"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.971034px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2318.1369,2490.7032 c -39.7174,15.233 -15.5969,38.4243 21.6647,45.0289 -38.838,6.3232 -30.2726,31.5282 -3.9059,41.2418 -54.9778,3.2242 -81.5878,43.1968 -58.1454,66.062 -45.5485,-13.3148 -78.6028,-15.8556 -66.6258,14.81 -17.9662,-31.0061 -26.8862,-34.6285 -20.5355,-5.0289 -13.128,-12.503 -32.072,-39.4051 -37.2757,-5.374 -10.8918,-26.5366 -27.9343,-16.2953 -46.2298,-5.1249 1.5049,-15.9852 -44.8704,-7.0495 -55.8861,8.8033 -7.8369,19.3062 -13.4973,14.1235 -6.7269,-6.155 10.2915,-13.6124 -47.781,-3.694 -54.9924,6.7775 3.4855,-15.2585 -14.004,-13.6568 -33.1263,0.9691 -3.0217,-24.1052 -13.4604,-18.1485 -48.7467,-5.347 12.996,-12.8457 20.0521,-31.258 -37.9014,-27.1225 22.8088,-5.8266 39.0801,-34.4726 -17.6827,-28.8785 34.4811,-10.6624 14.7613,-34.9965 -1.7922,-51.8425 55.5767,-9.3544 35.7909,-36.8508 18.8011,-60.9349 37.6242,13.1207 67.4717,24.6616 77.6023,-9.769 41.4258,33.4005 49.8274,5.0014 45.3317,-8.2823 33.44,34.7497 33.8953,5.9076 44.1729,-3.9977 96.1798,45.9753 96.2163,4.604 118.7452,-16.3333 4.0797,47.6424 26.6459,30.7245 49.2887,13.5399 -4.2415,39.8122 3.935,26.1598 17.2721,16.4017 0.1014,17.2937 17.5466,25.8953 45.3704,16.1193 -20.3851,12.9242 -8.7605,16.0772 51.3237,4.437 z"
+       id="path4289-9-3-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+    <path
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.873424px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1865.3082,2732.3845 c 36.5386,-13.5102 16.102,-37.706 -17.0478,-45.8999 35.2661,-4.6496 28.9262,-30.1895 5.7412,-41.0212 49.6124,-0.8625 75.7015,-39.6426 55.8571,-63.4836 40.2391,15.2508 69.8253,19.2058 60.7125,-11.9339 14.4803,31.7365 22.3055,35.7368 18.1945,5.903 11.1296,13.0498 26.7106,40.7296 33.2292,6.9655 8.3602,26.9694 24.2387,17.4721 41.2946,7.1006 -2.2174,15.9001 39.968,8.9645 50.7305,-6.3955 8.0908,-18.9453 12.9006,-13.5265 5.7164,6.4356 -9.9902,13.1535 42.7666,5.7381 49.8174,-4.4107 -3.959,15.0894 11.8549,14.2397 29.8407,0.4526 1.4144,24.2038 11.1234,18.7024 43.5457,7.4305 -12.3806,12.2718 -19.721,30.3579 32.6164,28.7128 -20.8255,4.841 -37.0053,32.7524 14.3399,29.5995 -31.5826,9.1701 -15.1652,34.3185 -1.1902,51.8526 -50.482,6.9592 -34.1762,35.2686 -20.2001,60.0502 -33.1238,-14.7171 -59.3401,-27.5231 -70.3108,6.4288 -35.4463,-35.1339 -44.5362,-7.1316 -41.2115,6.3278 -28.1921,-36.1389 -45.8327,-14.3392 -39.9379,2.0983 -31.0423,-50.5777 -88.4162,-32.1755 -122.6714,4.1138 26.0652,-48.4666 -15.7983,-32.2396 -37.0881,-16.0481 20.1437,-28.301 -4.9603,-17.8363 -17.481,-8.6627 12.1845,-21.9751 -32.3374,6.2801 -57.8859,14.8504 19.0294,-12.0334 38.0476,-49.5151 -16.6114,-40.4664 z"
+       id="path4289-9-3-6-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.44436px;marker:none;enable-background:accumulate"
+       d="M 1708.375 2287.3418 C 1670.7009 2288.256 1632.5625 2295.8101 1599.147 2313.7462 C 1582.6518 2322.8897 1569.9558 2338.3636 1563.8607 2356.1798 C 1557.1237 2375.3137 1557.5634 2396.1955 1561.0918 2415.9355 C 1564.8947 2435.6158 1573.185 2454.866 1586.97 2469.6252 C 1599.2071 2481.6595 1616.0765 2487.1125 1632.4524 2490.759 C 1671.1715 2500.4336 1711.2089 2505.6375 1751.1504 2503.6356 C 1781.3629 2502.3673 1811.5622 2498.3816 1840.7732 2490.4493 C 1862.5222 2483.9538 1883.7612 2473.1344 1898.7636 2455.7155 C 1913.1485 2437.891 1917.1231 2413.295 1912.4286 2391.2202 C 1904.9056 2353.5281 1876.6391 2321.4977 1841.383 2306.9512 C 1812.3476 2294.8296 1780.7381 2290.9428 1749.5958 2288.718 C 1735.8772 2287.8645 1722.1237 2287.157 1708.375 2287.3418 z "
+       id="path4546-6-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1733.0484,2482.7523 c 6.9926,29.8076 18.6468,64.1129 22.1431,71.987 6.9925,-7.8741 25.192,-15.9494 31.0192,-20.4483 5.2444,15.1842 10.3157,90.3585 -41.7451,151.3743 75.7752,-73.0554 60.9745,-148.5099 50.4857,-172.6929 -8.7406,4.4989 -24.0266,12.5222 -28.6883,14.7716 -5.8271,-11.81 -16.316,-53.9894 -16.316,-53.9894 z"
+       id="path5066-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1964.0773,2883.7318 c 45.1876,-35.5067 85.571,-88.3706 91.9435,-99.1494 -29.2434,6.0571 -35.5635,6.8258 -37.506,0.8095 -1.9423,-6.0163 77.997,-127.2212 77.997,-127.2212 l 34.1125,6.4808 c 0,0 -45.8842,48.0721 -65.8722,73.2263 -12.2121,15.3687 -24.0776,37.3165 -24.0776,37.3165 0,0 23.3653,-5.1149 27.6634,-5.865 20.6338,-3.6012 -2.4761,50.755 -104.2606,114.4025 z"
+       id="path891"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsccscsc" />
+    <path
+       id="path3280-81"
+       style="fill:#ffffff;stroke:none;stroke-width:1.0277"
+       d="m 95.707032,2263.3965 v 118.5643 c 32.078998,27.6248 93.825168,43.0991 158.626938,41.0153 89.22304,-2.8693 166.39658,-5.7821 168.31837,-79.6078 1.02301,-39.3007 -13.64899,-64.4532 -43.53514,-79.9718 z" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1"
+       d="m 314.52334,2468.4433 c 0.8464,-75.4301 -5.67281,-88.4399 215.12083,-86.206 146.41886,1.4814 220.54357,20.705 218.02633,88.0788 -2.38039,63.7066 -97.9694,66.2207 -208.48276,68.6967 -113.92727,2.5523 -220.33578,-25.3897 -224.6644,-70.5695 z"
+       id="path3280-81-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 494.17744,2446.3438 c 51.55764,73.5011 80.22705,174.4048 2.98718,203.1998 87.30859,-21.8078 96.44645,-110.3127 41.91237,-227.0906 -12.14937,-42.2577 -24.66054,10.9291 -44.89955,23.8908 z"
+       id="path4035-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 697.91192,3178.1697 c -29.60023,1.0641 -59.4603,2.5753 -88.42754,13.4092 -22.89033,9.7216 -43.63583,33.9843 -55.31643,67.5701 -5.4643,18.7899 -3.81843,41.683 2.77974,59.159 9.2095,25.4184 26.08128,42.429 43.95063,46.7029 31.16656,9.131 62.94525,9.1723 94.50227,10.4322 20.70328,0.3481 41.40184,1.2288 62.1006,1.9223 19.99113,-0.1718 40.06992,-1.1476 59.82667,-6.4808 10.96901,-2.9376 21.85248,-6.9712 32.40401,-12.6709 6.94367,-4.1898 13.22861,-11.4002 17.64241,-21.0991 10.76696,-22.483 13.55041,-54.9505 5.78182,-80.7615 -3.04423,-10.6297 -7.89485,-19.5086 -12.93618,-27.7651 -11.6997,-18.6999 -26.93589,-31.3124 -43.05677,-36.3102 -11.43004,-3.9066 -23.02107,-6.4359 -34.61156,-8.7081 -28.09399,-5.0372 -56.40547,-5.4771 -84.63967,-5.4 z"
+       id="path4291"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccssscssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999998px;marker:none;enable-background:accumulate"
+       d="m 2004.1989,2364.6884 c -5.9359,16.0801 -39.4146,17.4289 -51.7392,14.1604 24.8433,17.9885 23.9772,29.1653 -9.7528,30.8999 56.566,32.4208 10.341,27.5147 1.2235,35.7351 44.4147,11.173 29.6933,28.1068 1.1847,35.8909 51.0504,0.4755 -1.4843,26.3288 -20.8119,42.7498 22.603,-10.7509 97.6467,-32.9237 98.8839,-4.8149 32.7499,-24.5553 49.6473,-24.0771 61.4904,3.6898 9.8925,-23.9435 43.5774,-28.5516 56.4577,-2.7295 11.0957,-34.9466 50.6861,-30.0266 74.2528,-13.0899 -13.2293,-11.9531 -4.2081,-31.6351 40.8952,-27.6548 -3.6304,-10.9573 2.0788,-24.7871 24.8555,-22.9609 -26.236,-6.6182 -31.071,-13.4458 17.643,-20.7926 -37.0685,-0.71 -71.6354,-2.1663 -28.1458,-27.2214 -13.6439,-0.6063 -46.0154,20.3004 -30.9225,-40.882 -39.9599,18.0407 -81.95,27.2633 -79.8841,-10.6323 -14.856,20.4975 -40.6234,30.6403 -51.8335,5.0377 -9.254,23.9165 -37.3619,13.9018 -51.9635,-2.4221 -9.6479,16.1996 -24.0803,27.141 -51.8334,5.0368 z"
+       id="path3549-3-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09098px;marker:none;enable-background:accumulate"
+       d="m 622.39235,3237.8068 c -45.84039,33.0435 -96.09041,45.4564 -121.01898,-53.4867 -9.12126,82.2936 58.68778,158.1279 153.07948,78.9046 48.17517,-40.4335 47.74258,-58.4665 47.74258,-58.4665 z"
+       id="path4064-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscc"
+       inkscape:transform-center-x="-10.62037"
+       inkscape:transform-center-y="-9.1957583" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:0.999995"
+       d="m 879.7112,622.75275 c -27.23201,0.80503 -54.98985,5.25019 -79.47254,18.09663 -12.26939,7.61167 -18.98214,22.19268 -20.16669,36.50571 -1.47655,13.28003 4.20124,27.35879 15.0409,34.98064 13.24109,10.8087 29.53042,16.57517 45.604,21.26639 25.67261,6.45955 52.2942,4.74642 78.48098,5.43186 35.49006,0.4897 71.08844,0.43847 106.42075,-3.42421 16.1699,-2.1541 32.679,-7.52962 44.7871,-19.19973 9.2298,-9.54102 11.8678,-24.07194 9.7798,-36.9903 -2.3641,-15.04295 -11.649,-28.63798 -24.4926,-36.23148 -6.6445,-4.19016 -14.2178,-6.3321 -21.7283,-8.19578 -43.95315,-12.14398 -89.84537,-11.42364 -134.98414,-12.16575 -6.42279,-0.077 -12.84609,-0.0977 -19.26926,-0.074 z"
+       id="path3280-81-3-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999996px;marker:none;enable-background:accumulate"
+       d="m 900.02327,671.19991 c 91.6633,40.10272 117.58643,129.77771 79.9982,191.17722 56.92493,-63.39039 51.42053,-142.19167 -64.39752,-216.52752 -33.65115,-29.84166 0.1749,6.90048 -15.60068,25.3503 z"
+       id="path4035-4-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <text
+       id="text4178-36-4"
+       y="694.52051"
+       x="934.77313"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="694.52051"
+         x="934.77313"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan4307-5-7">Tránh đường đi...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:3.02325px;word-spacing:0px;fill:#daf9ff;fill-opacity:1;stroke:#00bfff;stroke-width:0.687796;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-5-8-8-3-3)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580-6-0-0-3"
+       transform="matrix(0.74083092,-0.35642121,0.14558873,1.2591067,40.891484,217.84741)"><tspan
+         sodipodi:role="line"
+         id="tspan4582-1-1-0-6"
+         x="787.65729"
+         y="1584.5073"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:'Lavi Bold';fill:#daf9ff;fill-opacity:1;stroke:#00bfff;stroke-width:0.687796;stroke-opacity:1">Xíttt</tspan></text>
+    <text
+       id="text4178"
+       y="2325.9587"
+       x="247.24895"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="2325.9587"
+         x="247.24895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan513">Vết thương tôi</tspan><tspan
+         y="2376.8047"
+         x="251.13191"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan1097">hoàn toàn lành hết </tspan></text>
+    <text
+       id="text4178-36"
+       y="2444.9231"
+       x="534.44073"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="2444.9231"
+         x="534.44073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan517">Mỗi lần cũng dùng cùng</tspan><tspan
+         y="2495.769"
+         x="534.44073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan1113">phép thuật thần diệu.</tspan></text>
+    <text
+       id="text4178-3"
+       y="3244.4319"
+       x="717.56146"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="3244.4319"
+         x="717.56146"
+         style="font-size:40.6767px;line-height:1.25;-inkscape-font-specification:ComicSpice;font-family:ComicSpice;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         sodipodi:role="line"
+         id="tspan568">Your talent</tspan><tspan
+         y="3295.2778"
+         x="717.56146"
+         style="font-size:40.6767px;line-height:1.25;-inkscape-font-specification:ComicSpice;font-family:ComicSpice;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         sodipodi:role="line"
+         id="tspan587">is incredible,</tspan><tspan
+         y="3346.1235"
+         x="717.56146"
+         style="font-size:40.6767px;line-height:1.25;-inkscape-font-specification:ComicSpice;font-family:ComicSpice;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         sodipodi:role="line"
+         id="tspan589">Healer!</tspan></text>
+    <text
+       id="text4178-3-5-1-7"
+       y="2356.8318"
+       x="1734.5117"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="2356.8318"
+         x="1734.5117"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan722">Đừng chờ đợi .</tspan><tspan
+         y="2407.6777"
+         x="1734.5117"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan724">Có một kho báo</tspan><tspan
+         y="2458.5234"
+         x="1734.5117"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan1101">phải đi tìm kiếm!</tspan></text>
+    <text
+       id="text4178-3-5"
+       y="2445.6282"
+       x="2108.2166"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.5904px;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         y="2445.6282"
+         x="2108.2166"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.4575px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:'ComicSpice Bold';stroke-width:1"
+         sodipodi:role="line"
+         id="tspan4378-9">Đúng rồi!</tspan></text>
+    <text
+       id="text4178-3-5-1"
+       y="2534.97"
+       x="2088.8264"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="2534.97"
+         x="2088.8264"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan852">Vì có chị thầy thước</tspan><tspan
+         y="2585.8159"
+         x="2088.8264"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan1105">này mình không cần sợ gì cả!</tspan></text>
+    <text
+       id="text4178-3-5-1-3"
+       y="2667.0034"
+       x="2075.4658"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="2667.0034"
+         x="2075.4658"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan919">Chúng tôi sẽ đi tìm</tspan><tspan
+         y="2717.8494"
+         x="2075.4658"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan1109">con quái vật kề tiếp!</tspan></text>
+    <text
+       id="text3346"
+       y="1679.3031"
+       x="1821.7296"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ComicSpice;-inkscape-font-specification:ComicSpice;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1679.3031"
+         x="1821.7296"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6767px;line-height:1.25;font-family:ComicSpice;-inkscape-font-specification:ComicSpice"
+         sodipodi:role="line"
+         id="tspan3344">Hay thật!</tspan></text>
+  </g>
+</svg>
