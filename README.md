@@ -3,7 +3,7 @@ Tập 38 của Hạt Tiêu &amp; Củ Đỏ
 
 Phiên bản này độc lập từ tác giả David Revoy cho nên được gọi là 'Phiên Bản Tự Do'.
 
-Giấy Phép: CC BY SA 4.0 David Revoy Năm 2022
+Giấy Phép: CC BY SA 4.0 David Revoy Năm 2023
 
 ![alt tag](E38P00.png)
 
